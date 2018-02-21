@@ -1,9 +1,16 @@
 # Ayu Xcode Theme
 Xcode port of the awesome Ayu theme (https://github.com/dempfi/ayu).
-Only dark version for now.
 
-## Screenshot
-![Xcode Ayu Dark](/screenshot.png "Xcode Ayu Dark")
+## Screenshots
+
+### Light
+![Ayu Xcode Light](/ayu-xcode-light.png "Ayu Xcode Light")
+
+### Mirage
+![Ayu Xcode Mirage](/ayu-xcode-mirage.png "Ayu Xcode Mirage")
+
+### Dark
+![Ayu Xcode Dark](/ayu-xcode-dark.png "Ayu Xcode Dark")
 
 ## Installation instructions
 
