@@ -1,5 +1,6 @@
 # Ayu Xcode Theme
-Xcode port of the awesome Ayu theme (https://github.com/dempfi/ayu)
+Xcode port of the awesome Ayu theme (https://github.com/dempfi/ayu).
+Only dark version for now.
 
 ## Screenshot
 ![Xcode Ayu Dark](/screenshot.png "Xcode Ayu Dark")
